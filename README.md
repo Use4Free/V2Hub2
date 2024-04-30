@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Bot">
   </a>
   <a href="https://scrutinizer-ci.com/g/yebekhe/V2Hub/build-status/main">
-    <img src="https://scrutinizer-ci.com/g/yebekhe/V2Hub/badges/build.png?b=main" alt="Build Status">
+    <img src="" alt="Build Status">
   </a>
   <a href="https://scrutinizer-ci.com/code-intelligence">
     <img src="https://scrutinizer-ci.com/g/yebekhe/V2Hub/badges/code-intelligence.svg?b=main" alt="Code Intelligence Status">
@@ -38,55 +38,55 @@
     <tr>
       <td>Merged</td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/merged">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/merged">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/merged_base64">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/merged_base64">BASE64 SUBSCRIPTION</a>
       </td>
     </tr>
     <tr>
       <td>VMESS</td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Normal/vmess">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Normal/vmess">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Base64/vmess">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Base64/vmess">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
     <tr>
       <td>VLESS</td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Normal/vless">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Normal/vless">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Base64/vless">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Base64/vless">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
     <tr>
       <td>REALITY</td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Normal/reality">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Normal/reality">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Base64/reality">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Base64/reality">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
     <tr>
       <td>TROJAN</td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Normal/trojan">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Normal/trojan">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Base64/trojan">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Base64/trojan">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
     <tr>
       <td>ShadowSocks</td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Normal/shadowsocks">NORMAL SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Normal/shadowsocks">NORMAL SUBSCRIPTION</a>
       </td>
       <td>
-        <a href="https://raw.githubusercontent.com/coldwater-10/V2Hub2/main/Split/Base64/shadowsocks">BASE64 SUBSCRIPTION</a>
+        <a href="https://raw.githubusercontent.com/Use4Free/V2Hub/main/Split/Base64/shadowsocks">BASE64 SUBSCRIPTION</a>
       </td>
       </tr>
   </tbody>
